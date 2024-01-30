@@ -1,0 +1,8 @@
+.page-title {
+    text-align: center;
+    color: darkcyan;
+}
+p {
+    display: flex;
+    justify-content: center;
+}
